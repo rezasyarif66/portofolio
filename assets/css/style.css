@@ -418,7 +418,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #34b7a7;
+  color: #ffc107;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -476,7 +476,7 @@ h6 {
 }
 
 #hero .btn-about:hover {
-  background: #3dc8b7;
+  background: #ffc107;
 }
 
 @media (min-width: 1024px) {
