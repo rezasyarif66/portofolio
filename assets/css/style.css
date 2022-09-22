@@ -383,7 +383,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #34b7a7;
+  color: #ffc107;
 }
 
 .navbar-mobile .getstarted,
@@ -472,7 +472,7 @@ h6 {
   transition: 0.5s;
   margin-top: 30px;
   color: #fff;
-  background: #34b7a7;
+  background: #ffc107;
 }
 
 #hero .btn-about:hover {
