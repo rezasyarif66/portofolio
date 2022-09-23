@@ -983,7 +983,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #34b7a7;
+  background: #ffc107;
 }
 
 .portfolio #portfolio-flters li:last-child {
